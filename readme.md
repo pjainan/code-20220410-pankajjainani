@@ -12,4 +12,8 @@ Install dependencies
 - OR: pip install -r .\requirements.txt
 
 Execute Program
-- python python .\main.py
+- execute: python -m bmicalculator.bmi
+
+Execute Tests
+- execute: python -m unittest discover
+- OR, execute: python .\test\test_bmi.py

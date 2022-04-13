@@ -2,11 +2,11 @@
     {
         "Gender": "Male",
         "HeightCm": 171,
-        "WeightKg": 96
+        "WeightKg": 0
     },
     {
         "Gender": "Male",
-        "HeightCm": 161,
+        "HeightCm": -2,
         "WeightKg": 85
     },
     {
